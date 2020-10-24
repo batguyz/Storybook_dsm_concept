@@ -1,0 +1,50 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "Yinka",
+  "last_updated": "2020-10-22T02:06:20.934Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "a66a9195-589d-4074-8adc-047cc5f87da0",
+      "related_entity_ids": [
+        "bastard"
+      ],
+      "snippets": {
+        "trigger": "ca-btn",
+        "languages": {
+          "javascriptreact": "  <ButtonSuccess>suxess</ButtonSuccess>"
+        }
+      },
+      "name": "CREA Active Button",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/8b4471ae-17c3-4287-4d89-df73f73bde10",
+        "id": "0b4ed66c-ce5d-41d8-b5d2-05aef904c20a",
+        "last_sync": "2020-10-22T02:31:27.363Z",
+        "sync": true
+      },
+      "last_updated": "2020-10-22T04:18:53.711Z",
+      "last_updated_by": "Yinka",
+      "description": "This is a button"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "adc1a60a-9c44-438a-ab0b-4e78ff95b38d",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "CREA_RGB",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/8b4471ae-17c3-4287-4d89-df73f73bde10",
+        "id": "31b0bbe3-da62-44ac-a81f-fffb7458996d",
+        "last_sync": "2020-10-22T02:09:29.764Z",
+        "sync": true
+      }
+    }
+  ]
+}

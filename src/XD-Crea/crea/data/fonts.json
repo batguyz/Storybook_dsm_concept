@@ -1,0 +1,40 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "Yinka",
+  "last_updated": "2020-10-22T02:06:20.934Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "5036768e-06fd-4f7c-a687-643115c2ebee",
+      "name": "Adelle — 28pt",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/8b4471ae-17c3-4287-4d89-df73f73bde10",
+        "id": "b3d25d01-bde7-4de0-9ce8-9eafad5fa499",
+        "last_sync": "2020-10-22T02:09:29.764Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "5036768e-06fd-4f7c-a687-643115c2ebee",
+          "type": "custom",
+          "value": "Adelle",
+          "key": "family"
+        },
+        {
+          "id": "5036768e-06fd-4f7c-a687-643115c2ebee",
+          "type": "custom",
+          "value": "Light",
+          "key": "weight"
+        },
+        {
+          "id": "5036768e-06fd-4f7c-a687-643115c2ebee",
+          "type": "size",
+          "value": "28",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}

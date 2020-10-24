@@ -1,0 +1,34 @@
+{
+  "color": {
+    "CREA Black": {
+      "value": "#000000ff"
+    },
+    "CREA White": {
+      "value": "#FFFFFFff"
+    },
+    "CREA Grey": {
+      "value": "#D9DEE5ff"
+    },
+    "CREA Yellow": {
+      "value": "#FFE98Cff"
+    },
+    "CREA Aqua": {
+      "value": "#3DB5B8ff"
+    },
+    "CREA Light Blue": {
+      "value": "#66ADE0ff"
+    },
+    "CREA Blue": {
+      "value": "#345FA8ff"
+    },
+    "CREA Dark Red": {
+      "value": "#9E1C2Eff"
+    },
+    "CREA Red": {
+      "value": "#D0191Dff"
+    },
+    "bastard": {
+      "value": "#176C1Dff"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<svg id="CREA_Active_Button" data-name="CREA Active Button" xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
+  <g id="Rectangle_452" data-name="Rectangle 452" fill="none" stroke="#3db5b8" stroke-width="4">
+    <rect width="200" height="60" rx="30" stroke="none"/>
+    <rect x="2" y="2" width="196" height="56" rx="28" fill="none"/>
+  </g>
+  <text id="Button" transform="translate(55 40)" fill="#3db5b8" font-size="28" font-family="Adelle-Bold, Adelle" font-weight="700"><tspan x="0" y="0">Button</tspan></text>
+</svg>
