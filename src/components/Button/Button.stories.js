@@ -4,6 +4,8 @@ import {ButtonBullet} from '../Button/button-style'
 import { action } from '@storybook/addon-actions';
 import {withInfo} from '@storybook/addon-info';
 import { withKnobs, text } from '@storybook/addon-knobs';
+import { withDesign } from 'storybook-addon-designs'
+
 
 
 
@@ -86,3 +88,10 @@ Bullet.story = {
     decorators: [story => <div style={{ width: `960px`, height: `120px`, position: `relative` }}>{story()}</div>],
     decorators: [withInfo],
 }
+
+Primary.parameters = {
+    design: {
+      type: 'figma',
+      url: 'https://www.figma.com/file/N4Jaa3Co79fUF0XP2BR6si/Crea_Figgo?node-id=23%3A0',
+    },
+  }

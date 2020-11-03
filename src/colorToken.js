@@ -1,5 +1,5 @@
 export const YELLOW_PRIMARY = '#daa500';
-export const CREA_FAKE_RED = '#fa14ff';
+export const CREA_FAKE_RED = '#ff144d';
 export const NEUTRAL_PRIMARY = '#333333';
 export const NEUTRAL_ACCENT_1 = '#6d6d6d';
 export const NEUTRAL_ACCENT_3 = '#f5f5f5';
@@ -8,7 +8,7 @@ export const RED_PRIMARY = '#c03a47';
 export const PURP_PRIMARY = '#9c75a6';
 export const BLUE_PRIMARY = '#0078fe';
 export const AOI_PRIMARY = '#00b4a0';
-export const GREEN_PRIMARY = '#4c926e';
+export const GREEN_PRIMARY = '#f5a429';
 export const GREEN_ACCENT_2 = '#e7f8f0';
 export const AOI_ACCENT_2 = '#dbfbf8';
 export const BLUE_ACCENT_2 = '#ddedff';

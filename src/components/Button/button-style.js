@@ -30,11 +30,11 @@ export const StyledButton = styled.button`
 
 
 export const StyledButtonSuccess = styled(StyledButton)`
-    color: ${colors.Bastard};
-    border: 2px solid ${colors.Bastard};
+    color: ${colors.GREEN_PRIMARY};
+    border: 2px solid ${colors.GREEN_PRIMARY};
     :hover {
         color: ${colors.white};
-        background-color: ${colors.Bastard};
+        background-color: ${colors.GREEN_PRIMARY};
         cursor: pointer;
     }
 `

@@ -1,10 +1,11 @@
 // Colors
-import { CREA_FAKE_RED } from './colorToken'
+import { CREA_FAKE_RED, GREEN_PRIMARY } from './colorToken'
 import {SPACE_LARGE} from './spaceToken'
 import { CreaBlue, CreaAqua, Bastard } from './XD-Crea/crea/dist/styledictionary/js/tokens'
 
 export const colors = {
     CREA_FAKE_RED,
+    GREEN_PRIMARY,
     CreaBlue,
     CreaAqua,
     Bastard,
