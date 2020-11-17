@@ -6,35 +6,35 @@ import { colors, backgrounds } from '../../Utilities'
 
 export const StyledButton = styled.button`
   color: ${(props) =>
-    props.reverse ? colors.white : colors.primary500};
+    props.reverse ? colors.white : colors.CREA_FAKE_RED};
   font-size: 1em;
   margin: 1em;
   padding: 0.25em 1em;
   border: 2px solid;
   border-color: ${(props) =>
-    props.reverse ? colors.white : colors.primary500};
+    props.reverse ? colors.white : colors.CREA_FAKE_RED};
   border-radius: 2rem;
   background: ${(props) =>
-    props.reverse ? colors.primary500 : "transparent"};
+    props.reverse ? colors.CREA_FAKE_RED : "transparent"};
 
   :hover {
     color: ${(props) =>
-      props.reverse ? colors.primary500 : colors.white};
+      props.reverse ? colors.CREA_FAKE_RED : colors.white};
     background-color: ${(props) =>
-      props.reverse ? colors.white : colors.primary500};
+      props.reverse ? colors.white : colors.CREA_FAKE_RED};
     cursor: pointer;
     border-color: ${(props) =>
-      props.reverse ? colors.primary500 : colors.white};
+      props.reverse ? colors.CREA_FAKE_RED : colors.white};
   }
 `;
 
 
 export const StyledButtonSuccess = styled(StyledButton)`
-    color: ${colors.GREEN_PRIMARY};
-    border: 2px solid ${colors.GREEN_PRIMARY};
+    color: ${colors.CREA_FAKE_RED};
+    border: 2px solid ${colors.CREA_FAKE_RED};
     :hover {
         color: ${colors.white};
-        background-color: ${colors.GREEN_PRIMARY};
+        background-color: ${colors.CREA_FAKE_RED};
         cursor: pointer;
     }
 `
