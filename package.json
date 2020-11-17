@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@bit/batguyz.tower_test.product-list": "0.0.6",
+   
     "@storybook/addon-knobs": "^6.0.25",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
