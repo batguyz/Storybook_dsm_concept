@@ -1,5 +1,5 @@
 export const YELLOW_PRIMARY = '#daa500';
-export const CREA_FAKE_RED = '#ff144d';
+export const CREA_FAKE_RED = '#1ceb17';
 export const NEUTRAL_PRIMARY = '#333333';
 export const NEUTRAL_ACCENT_1 = '#6d6d6d';
 export const NEUTRAL_ACCENT_3 = '#f5f5f5';
