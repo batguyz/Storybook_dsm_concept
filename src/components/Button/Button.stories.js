@@ -18,7 +18,7 @@ export default {
 
 
 
-export const Primary = () => {
+export const Text = () => {
     const btnText = text('Title', 'Primary button');
     return (
     <Button onClick={action('button was clicked')}>
@@ -92,6 +92,6 @@ Bullet.story = {
 Primary.parameters = {
     design: {
       type: 'figma',
-      url: 'https://www.figma.com/file/N4Jaa3Co79fUF0XP2BR6si/Crea_Figgo?node-id=23%3A0',
+      url: 'https://www.figma.com/file/yJDqFj4gVpgYYLycSv7Acu/square-button?node-id=1%3A2',
     },
   }

@@ -12,13 +12,14 @@ import {
 
   
   
-  export function ButtonSuccess({onClick, reverse, children}) {
+  export function ButtonSuccess({onClick, children}) {
     const btnText = "Success button";
     return (
         <StyledButtonSuccess onClick={onClick}>
         
         
-        {children}</StyledButtonSuccess>
+        {children}
+        </StyledButtonSuccess>
     );
 }
 

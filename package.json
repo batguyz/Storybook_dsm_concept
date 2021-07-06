@@ -13,6 +13,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
+    "storybook-contrast": "^0.11.6",
     "style-dictionary": "^2.10.2",
     "styled-components": "^5.2.0"
   },
